@@ -1,0 +1,7 @@
+This project is an animated joke teller. The User presses the Tell me a Joke button and the on screen animation converts the joke (fetched via API) into text to speech and "tells" the User the joke
+
+It uses a giphy animation and fetches a joke (via API) which is then converted into speech
+
+It can be used as an example of 
+
+- a funny little feature
